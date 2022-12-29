@@ -1,0 +1,5 @@
+krakenex==2.1.0
+pandas==1.5.1
+plotly==5.11.0
+pykrakenapi==0.3.1
+streamlit==1.15.0
